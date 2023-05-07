@@ -1,0 +1,15 @@
+{
+  "results": [
+    {
+      "password": "testpassword",
+      "user": {
+        "ID": 0,
+        "balance": 1000,
+        "first_name": "Aaron",
+        "last_name": "Hough",
+        "transaction_history": [ 1200, -50, -100, 50, -100, 1000, -1000 ]
+      },
+      "username": "testusername"
+    }
+  ]
+}
